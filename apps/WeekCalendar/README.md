@@ -12,9 +12,9 @@
 
 使用vs打开工程，或者直接运行release文件夹下的`Week Calendar.exe`，输入年份（例如2019），然后敲击回车键即可。结果如下：  
 
-![1562143805500](https://github.com/Apollo4634/Universal-Function-Library/tree/master/apps/Week%20Calendar/images/20190703165315.png)
+![1562143805500](https://github.com/Apollo4634/Universal-Function-Library/tree/master/apps/WeekCalendar/images/20190703165315.png)
 
 除了直接浏览外，可以输入硬盘分区的盘符，将结果以txt的格式保存到对应分区的根目录下：  
 
-![1562143805500](https://github.com/Apollo4634/Universal-Function-Library/tree/master/apps/Week%20Calendar/images/20190703165523.png)  
+![1562143805500](https://github.com/Apollo4634/Universal-Function-Library/tree/master/apps/WeekCalendar/images/20190703165523.png)  
 
