@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\workspace\cpp\week calendar\week calendar\main.cpp(84): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\cpp\week calendar\week calendar\main.cpp(90): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\cpp\week calendar\week calendar\main.cpp(96): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\cpp\week calendar\week calendar\main.cpp(154): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\workspace\cpp\week calendar\week calendar\main.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+d:\workspace\cpp\week calendar\week calendar\main.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 317 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Week Calendar.vcxproj -> D:\Workspace\cpp\Week Calendar\Release\Week Calendar.exe
